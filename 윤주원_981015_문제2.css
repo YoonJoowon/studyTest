@@ -1,0 +1,75 @@
+#vending{
+    width:700px;
+    height:1000px;
+    border:2px solid #000000;
+}
+
+.drink{
+    text-align: center;
+    margin:60px 100px 0px 50px;
+}
+
+.drink button{
+    width:100px;
+    height: 100px;
+    background-color: transparent;
+    margin-left: 50px;
+}
+
+.won{
+    margin: 0px 0px 0px 60px;
+}
+
+.pr{
+    float: left;
+    text-align: center;
+    margin-left: 110px;
+
+}
+
+.cash{
+    margin: 100px;
+}
+
+.cash button{
+    width:100px;    
+    background-color: transparent;
+    height: 100px;
+    border-radius: 100px;
+    border-width: 8px ;
+    margin-left: 50px;
+}
+
+.result{    
+    margin:45px 0 0 500px;
+    font-weight: bold;
+    text-align: center;
+    line-height: 50px;
+    width: 100px;
+    height: 50px;
+    border: 2px solid black;
+}
+
+.result button{
+    border-color: transparent;
+    background-color: transparent;
+}
+
+.resultBox{
+    border: 2px solid black;
+    width: 500px;
+    height: 300px;
+    margin: auto;
+    margin-top: 30px;
+    position: relative;
+}
+
+#price{
+    margin:100px 0 0 19px;
+    font-weight: bold;
+}
+
+#beverage{
+    margin:10px 0 0 19px;
+    font-weight: bold;
+}
