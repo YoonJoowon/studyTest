@@ -8,6 +8,7 @@ const cash3 = document.getElementById("cash3");
 const beverage1 = document.getElementById("beverage1");
 const result = document.getElementById("result");
 
+
 // 금액 버튼 클릭시
 function cash1_Click(){
     coin = coin + 100;
