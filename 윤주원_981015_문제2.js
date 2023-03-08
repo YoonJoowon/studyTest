@@ -1,7 +1,4 @@
 let coin = 0;
-// const drink1 = document.getElementById("drink1");
-// const drink2 = document.getElementById("drink2");
-// const drink3 = document.getElementById("drink3");
 const cash1 = document.getElementById("cash1");
 const cash2 = document.getElementById("cash2");
 const cash3 = document.getElementById("cash3");
